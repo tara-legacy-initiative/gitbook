@@ -2,3 +2,4 @@
 
 * [Help Center](README.md)
   * [Run your node](readme/run-your-node.md)
+  * [Terms and legal notice](readme/terms-and-legal-notice.md)
