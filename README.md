@@ -9,7 +9,7 @@
 ## End-users status
 
 * You cannot withdraw or send tokens from/to the network or exchanges because the network does not accept new transactions.
-* You can check their wallet balance, related nodes or active delegations through the wallet checker provided by the "Monitor" website here: [https://monitor.taraxa.ovh/](https://monitor.taraxa.ovh/)
+* You can check your wallet balance, related nodes or active delegations through the wallet checker provided by the "Monitor" website here: [https://monitor.taraxa.ovh/](https://monitor.taraxa.ovh/)
 * You can register on the webiste using your wallet even if you are not connected to the Taraxa network (it's just about signing a message with Metamast, no transaction involved, no gas, no fee, you're safe).
 * You can configure Metamask by setting the network RPC URL to `https://mainnet.rpc.taraxa.ovh`. Use chain id `841` and token symbol `TARA` (leave the explorer field blank as it's not available yet). Then you should see your balance.
 
@@ -22,8 +22,8 @@
 
 * To create a block and accept transactions, validator nodes need to reach a consensus of 67% of the total votes.
 * Validators have vote power based on the amount of delegated $TARA end-user have made.
-* With the recent shutdown of the core team servers, the balance has changed and we don't have enough online validators to reach the 67% threshold.
-* What (probably) happens. Let's say with hypothetical values:
+* With the recent shutdown of the core team servers, vote power has been re-balanced and we don't have enough online validators to reach the 67% threshold.
+* To explain what (probably) happened, let's say with hypothetical values:
   * Community validators had 80% of votes
   * Core team validators had 20% of votes
   * With the core team shutting down their nodes, we might think we still have enough votes to run the network. Problem is: a substantial amount of community validators were offline or don't have updated their nodes to the latest version, leading us to a state where we have something like 55% of the votes.
