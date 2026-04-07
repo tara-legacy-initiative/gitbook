@@ -9,7 +9,7 @@
 ## End-users status
 
 * You cannot withdraw or send tokens from/to the network or exchanges because the network does not accept new transactions.
-* You can check your wallet balance, related nodes or active delegations through the wallet checker provided by the "Monitor" website here: [https://monitor.taraxa.ovh/](https://monitor.taraxa.ovh/)
+* You can check your wallet balance, related nodes or active delegations through the wallet checker provided by the "Monitor" website here: [https://monitor.tara.community/](https://monitor.tara.community/)
 * You can register on the webiste using your wallet even if you are not connected to the Taraxa network (it's just about signing a message with Metamast, no transaction involved, no gas, no fee, you're safe).
 * You can configure Metamask by setting the network RPC URL to `https://mainnet.rpc.taraxa.ovh`. Use chain id `841` and token symbol `TARA` (leave the explorer field blank as it's not available yet). Then you should see your balance.
 
